@@ -1,0 +1,22 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.o
+
+# Ignore user-specific files
+.idea/
+.vscode/
+
+# Ignore logs and cache
+logs/
+*.log
+
+# Ignore configuration files with sensitive information
+config.ini
+secrets.json
+
+# Ignore png files
+*.png
+
+# Ignore Desktop Services Store files
+*.DS_Store
