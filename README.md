@@ -23,14 +23,14 @@ You can install Python packages like Pandas, NumPy, mysql.connector, and Matplot
 ```bash
 pip install pandas numpy mysql-connector-python matplotlib
 
-Usage
+### Usage
 
 This tool is designed to streamline database management tasks. Below are key aspects of its usage.
 
 Database Management Classes
 The database management classes are stored in the database_classes folder. Users can create their custom data management class that utilizes SQL to interact with their chosen database. Customize the class methods, such as populate_table(), query_data(), and plot_data(), according to your specific data management needs.
 
-Command Line Arguments
+### Command Line Arguments
 When executing main.py, the following command line arguments must be provided:
 
 host: The hostname of your database server.
