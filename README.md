@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 You can install Python packages like Pandas, NumPy, mysql.connector, and Matplotlib using pip:
 
-```bash
+```
 pip install pandas numpy mysql-connector-python matplotlib
 ```
 
