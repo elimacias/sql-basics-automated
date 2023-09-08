@@ -22,6 +22,7 @@ You can install Python packages like Pandas, NumPy, mysql.connector, and Matplot
 
 ```bash
 pip install pandas numpy mysql-connector-python matplotlib
+```
 
 ### Usage
 
@@ -41,6 +42,7 @@ table: The name of the database table.
 filename: The name of the CSV or XLSX file containing data.
 class_name: The name of your custom data management class.
 
+```
 python main.py host user password database table filename class_name
-
+```
 
